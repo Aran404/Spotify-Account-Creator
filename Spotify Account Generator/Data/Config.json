@@ -1,0 +1,22 @@
+{
+   "generator": {
+      "custom_password": "Spotium",
+      "password_suffix": "%d%d%d%d",
+      "display_name": "Spotium",
+      "display_name_suffix": "",
+      "use_hotmailbox": false,
+      "retry_fails": false
+   },
+   "threads": {
+      "max_threads": 100,
+      "amount_of_accounts": 100
+   },
+   "captcha": {
+      "max_retries": 60,
+      "api_key": "CAPSOLVER_KEY"
+   },
+   "hotmailbox": {
+      "api_key": "HOTMAILBOX_KEY",
+      "domain": "hotmail"
+   }
+}
