@@ -1,0 +1,533 @@
+10-10-2023 21:41:01 [FATAL] Telegram/Core/Utils.Readlines[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Utils/io.go:48] -> open Data/proxies.txt: The system cannot find the file specified.
+10-10-2023 21:41:53 [FATAL] Telegram/Core/Utils.Readlines[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Utils/io.go:48] -> open Data/proxies.txt: The system cannot find the file specified.
+10-10-2023 21:42:21 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:21 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:21 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:21 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:21 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:21 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:22 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:22 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:22 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:22 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:26 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:96] -> Could not save cookies, Error: could not authenticate splot, status code: 400
+10-10-2023 21:42:27 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:96] -> Could not save cookies, Error: could not authenticate splot, status code: 400
+10-10-2023 21:42:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:28 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 21:42:28 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 21:42:28 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 21:42:28 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 21:42:29 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:96] -> Could not save cookies, Error: could not authenticate splot, status code: 400
+10-10-2023 21:42:29 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:96] -> Could not save cookies, Error: could not authenticate splot, status code: 400
+10-10-2023 21:42:29 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:30 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:30 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:42:30 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:43:38 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:43:46 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:96] -> Could not save cookies, Error: could not authenticate splot, status code: 400
+10-10-2023 21:43:46 [INFO] main.main[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:142] -> Successfully generated 824633881936/1 Spotify Accounts. [9.4980736]
+10-10-2023 21:46:10 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:46:19 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:96] -> Could not save cookies, Error: could not authenticate splot, status code: 400
+10-10-2023 21:46:19 [INFO] main.main[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:142] -> Successfully generated 0/1 Spotify Accounts. [10.8540017]
+10-10-2023 21:47:45 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:47:51 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:96] -> Could not save cookies, Error: could not authenticate splot, status code: 400
+10-10-2023 21:47:51 [INFO] main.main[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:142] -> Successfully generated 0/1 Spotify Accounts. [9.3604205]
+10-10-2023 21:49:57 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:50:10 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:96] -> Could not save cookies, Error: could not authenticate splot, status code: 400
+10-10-2023 21:50:10 [INFO] main.main[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:142] -> Successfully generated 0/1 Spotify Accounts. [15.6157725]
+10-10-2023 21:53:56 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:199] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:54:09 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:96] -> Could not save cookies, Error: could not authenticate splot, status code: 400
+10-10-2023 21:54:09 [INFO] main.main[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:142] -> Successfully generated 0/1 Spotify Accounts. [15.8037268]
+10-10-2023 21:56:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:48 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:48 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:51 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 21:56:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [VUs9sHY7@outlook.com:Spotium1395.]
+10-10-2023 21:56:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [VU9sHYnS@outlook.com:Spotium0954.]
+10-10-2023 21:56:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [HPJ9YYKJ@yahoo.com:Spotium2613.]
+10-10-2023 21:56:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [Slox798w@gmail.com:Spotium2377.]
+10-10-2023 21:56:52 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [Us9sHY7n@hotmail.com:Spotium1395.]
+10-10-2023 21:56:52 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [VUH7nSlE@outlook.com:Spotium6890.]
+10-10-2023 21:56:53 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:53 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:53 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:53 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:53 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:54 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:54 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:55 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 21:56:57 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [LcnrBuKW@yahoo.com:Spotium6745.]
+10-10-2023 21:56:57 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:57 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [rsTjJt6w@hotmail.com:Spotium0119.]
+10-10-2023 21:56:57 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [BwgUVoaO@yahoo.com:Spotium5243.]
+10-10-2023 21:56:58 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 21:56:58 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 21:56:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:56:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:01 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [qoAE1AUM@gmail.com:Spotium9705.]
+10-10-2023 21:57:03 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [NDdKYU9H@yahoo.com:Spotium2141.]
+10-10-2023 21:57:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [HwNuzLf4@outlook.com:Spotium6817.]
+10-10-2023 21:57:05 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [ieQ8VI6y@hotmail.com:Spotium5659.]
+10-10-2023 21:57:06 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:07 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:07 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:08 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [hWjuLnEL@hotmail.com:Spotium3139.]
+10-10-2023 21:57:08 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [c8adxinh@gmail.com:Spotium3140.]
+10-10-2023 21:57:08 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [QlfVsgyf@yahoo.com:Spotium3307.]
+10-10-2023 21:57:10 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:10 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [NdUQGzgK@gmail.com:Spotium5912.]
+10-10-2023 21:57:10 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:10 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:10 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [pOP1ERuI@hotmail.com:Spotium0982.]
+10-10-2023 21:57:12 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:12 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:14 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [rvytdkCV@hotmail.com:Spotium9913.]
+10-10-2023 21:57:14 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [vHGfezBP@yahoo.com:Spotium2538.]
+10-10-2023 21:57:15 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [2pLlff5s@gmail.com:Spotium6100.]
+10-10-2023 21:57:16 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:17 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:17 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [pCYdlOGN@yahoo.com:Spotium8675.]
+10-10-2023 21:57:17 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:17 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [bbaotODf@yahoo.com:Spotium1352.]
+10-10-2023 21:57:18 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [OII6yuNE@gmail.com:Spotium4740.]
+10-10-2023 21:57:19 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:19 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 21:57:20 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [qsLgAWRA@outlook.com:Spotium2611.]
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:00:59 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:00 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:01 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:01 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:01 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:01 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:01 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:01 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:01 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:01:03 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:03 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:03 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [jHYOnKlo@gmail.com:Spotium0200.]
+10-10-2023 22:01:03 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:03 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:03 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [OrVCpQgZ@hotmail.com:Spotium8927.]
+10-10-2023 22:01:03 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [UUuKBysp@hotmail.com:Spotium5748.]
+10-10-2023 22:01:03 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [JnJWHE5D@outlook.com:Spotium0641.]
+10-10-2023 22:01:03 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [ruwbfDLu@hotmail.com:Spotium6931.]
+10-10-2023 22:01:03 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [V4kCvNKt@gmail.com:Spotium8319.]
+10-10-2023 22:01:04 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:04 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:04 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [DNvvpneL@outlook.com:Spotium8252.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [jHYOnVnJ@gmail.com:Spotium3860.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [JI2nJq5D@outlook.com:Spotium5714.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [yj5UkgXS@gmail.com:Spotium1592.]
+10-10-2023 22:01:04 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:04 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [pZfu2kmS@hotmail.com:Spotium8927.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [poHpafzO@gmail.com:Spotium3595.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [1FcfKLP3@gmail.com:Spotium7496.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [JI2nJDjB@outlook.com:Spotium4185.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [DuxZJB9g@outlook.com:Spotium2523.]
+10-10-2023 22:01:04 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:04 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [aAbfOux2@yahoo.com:Spotium8902.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [jHKnKloy@gmail.com:Spotium6000.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [jHYOlVnJ@gmail.com:Spotium1812.]
+10-10-2023 22:01:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [xZgOq53D@outlook.com:Spotium6833.]
+10-10-2023 22:01:05 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [jHYKlVJl@gmail.com:Spotium0821.]
+10-10-2023 22:01:05 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:05 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:06 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [jHOnKlyV@gmail.com:Spotium5630.]
+10-10-2023 22:01:06 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [OrVpeoi1@hotmail.com:Spotium8927.]
+10-10-2023 22:01:06 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [JI2nJWHq@outlook.com:Spotium5368.]
+10-10-2023 22:01:06 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:06 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:06 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:06 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [albky367@yahoo.com:Spotium8349.]
+10-10-2023 22:01:06 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:06 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:06 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:06 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [1uPyvw1c@gmail.com:Spotium5368.]
+10-10-2023 22:01:07 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:07 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:07 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [OrV5mKrz@hotmail.com:Spotium9201.]
+10-10-2023 22:01:07 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:07 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:08 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:08 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [UUuYWHq5@hotmail.com:Spotium4178.]
+10-10-2023 22:01:08 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [OrVCpQZb@hotmail.com:Spotium1253.]
+10-10-2023 22:01:08 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:09 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:09 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:09 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:09 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:09 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:09 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [JI2nJWHE@outlook.com:Spotium6284.]
+10-10-2023 22:01:10 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [f3iTyUQ7@gmail.com:Spotium0378.]
+10-10-2023 22:01:10 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:10 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:10 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:11 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [OrsLzylV@hotmail.com:Spotium6306.]
+10-10-2023 22:01:11 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [jHOnKloy@gmail.com:Spotium0826.]
+10-10-2023 22:01:12 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:12 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:12 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:12 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:12 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:14 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:15 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:16 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:16 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [5D4zOYfF@hotmail.com:Spotium8002.]
+10-10-2023 22:01:16 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:01:16 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [alky37kJ@yahoo.com:Spotium5898.]
+10-10-2023 22:01:17 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [jOnKloyl@gmail.com:Spotium5103.]
+10-10-2023 22:01:17 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [oZ81k4lW@yahoo.com:Spotium2556.]
+10-10-2023 22:01:17 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [Oq53DqWr@gmail.com:Spotium8256.]
+10-10-2023 22:02:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:48 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:48 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:02:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [rFPA9Ii8@gmail.com:Spotium0178.]
+10-10-2023 22:02:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [rFlPIaB3@gmail.com:Spotium5342.]
+10-10-2023 22:02:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [P1EaFtdf@outlook.com:Spotium1250.]
+10-10-2023 22:02:51 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:02:53 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [PlIaBE6Y@outlook.com:Spotium4933.]
+10-10-2023 22:02:54 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 409
+10-10-2023 22:03:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:28 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:29 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:03:33 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [K8J4H2gL@outlook.com:Spotium6138.]
+10-10-2023 22:03:42 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [kdV9GT51@gmail.com:Spotium0727.]
+10-10-2023 22:03:45 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [kdailGT5@gmail.com:Spotium7216.]
+10-10-2023 22:03:46 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not complete creation process, Status Code: 409, Body: {"error":{"error_details":{"code":2,"title":"Lütfen bilgilerini kontrol et ve tekrar dene.","body":"Bu e-posta ile oluşturulmuş bir hesap var. Lütfen hesabında oturum aç veya farklı bir e-posta ile kaydol.","already_exists":{}}}}
+10-10-2023 22:03:48 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [kdV94ail@gmail.com:Spotium2058.]
+10-10-2023 22:03:51 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not complete creation process, Status Code: 409, Body: {"error":{"error_details":{"code":2,"title":"Lütfen bilgilerini kontrol et ve tekrar dene.","body":"Bu e-posta ile oluşturulmuş bir hesap var. Lütfen hesabında oturum aç veya farklı bir e-posta ile kaydol.","already_exists":{}}}}
+10-10-2023 22:03:51 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:88] -> Could not generate a new account, Error: could not complete creation process, Status Code: 409, Body: {"error":{"error_details":{"code":2,"title":"Lütfen bilgilerini kontrol et ve tekrar dene.","body":"Bu e-posta ile oluşturulmuş bir hesap var. Lütfen hesabında oturum aç veya farklı bir e-posta ile kaydol.","already_exists":{}}}}
+10-10-2023 22:03:54 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:95] -> Successfully generated a Spotify Account: [dV9alT51@gmail.com:Spotium2058.]
+10-10-2023 22:04:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:04:52 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:97] -> Successfully generated a Spotify Account: [e7qsRE8z@yahoo.com:Spotium9493.]
+10-10-2023 22:04:53 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:97] -> Successfully generated a Spotify Account: [e7qsRE8Y@yahoo.com:Spotium9323.]
+10-10-2023 22:04:54 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:90] -> Could not generate a new account, Error: could not complete creation process, Status Code: 409, Body: {"error":{"error_details":{"code":2,"title":"Lütfen bilgilerini kontrol et ve tekrar dene.","body":"Bu e-posta ile oluşturulmuş bir hesap var. Lütfen hesabında oturum aç veya farklı bir e-posta ile kaydol.","already_exists":{}}}}
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:46 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:47 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:48 [INFO] Telegram/Core/Generator.(*Instance).Register[C:/Users/ethan/Desktop/Spotify Account Generator/Core/Generator/methods.go:197] -> Encountered Challenge, Attempting to Solve.
+10-10-2023 22:13:49 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [osZSj5lj@outlook.com:SpotiumActL.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [jY8b49CC@outlook.com:SpotiumZAIW.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [2ChBD1yu@outlook.com:SpotiumhMwE.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [CVttuhNH@outlook.com:SpotiumzwGf.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [2dvctywS@outlook.com:Spotium3GdU.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [l0wiM8CK@outlook.com:Spotiumb5SK.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [XrVgWRqu@outlook.com:SpotiumRmvM.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [rsQsQwGn@outlook.com:Spotiumu392.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [GfWFFGNN@outlook.com:SpotiumhJ0A.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [y2xpOFOB@outlook.com:Spotiumb066.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [gdDXm5S3@hotmail.com:Spotiumy1CF.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [GyRM9Sl7@outlook.com:SpotiumXeOi.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [ItV9DyDl@hotmail.com:SpotiumHuIc.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [WsItUw4x@hotmail.com:SpotiumvYoJ.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [3gXFpAjI@hotmail.com:SpotiumMeO3.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [E6Oaj33L@outlook.com:Spotiumki6j.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [J7UU3nwq@hotmail.com:SpotiumifkG.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [CYohRJ7s@outlook.com:Spotium8i6n.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [rW9jfLhN@outlook.com:SpotiumzawG.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [sm9bY8Bz@outlook.com:SpotiumgYQ2.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [FbmwMHnF@outlook.com:SpotiumYLYa.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [hAu5JlB7@outlook.com:SpotiumKwSK.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [uRmQ9lqI@gmail.com:SpotiumgMV6.]
+10-10-2023 22:13:50 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [P1fTgzmE@outlook.com:SpotiumrnSK.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [QyZqFsSe@outlook.com:SpotiumfXnO.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [6KIuOFqd@outlook.com:Spotiummsm8.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [UBtLibD8@gmail.com:SpotiumBBtB.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [WFvke910@outlook.com:Spotiumw2OW.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [P3lLtN3G@outlook.com:SpotiumL3HY.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [ZyS1TIJ0@outlook.com:SpotiumPdUY.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [0anvckg9@outlook.com:SpotiumAvyf.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [8AZImAXN@outlook.com:SpotiumbQ1v.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [2pVAQ9WA@outlook.com:SpotiumS2OI.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [IqOMeSId@outlook.com:Spotium2Seu.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [mgRyyumq@gmail.com:SpotiumH40Z.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [kpVtg4zs@outlook.com:SpotiumbtKL.]
+10-10-2023 22:13:51 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [e9P28elV@outlook.com:Spotiumf8qJ.]
+10-10-2023 22:13:52 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [DlT5qUnu@outlook.com:Spotiumnh41.]
+10-10-2023 22:13:52 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [Jo2kgwq8@hotmail.com:SpotiumCdY6.]
+10-10-2023 22:13:52 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [VhEPhwsm@outlook.com:Spotium3QES.]
+10-10-2023 22:13:52 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [JlFn746q@gmail.com:SpotiumcbiH.]
+10-10-2023 22:13:53 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [aJ9HjRIx@outlook.com:Spotiumd9kj.]
+10-10-2023 22:13:53 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [maNVCe1d@outlook.com:SpotiumPjrc.]
+10-10-2023 22:13:53 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [hzE7DIgH@hotmail.com:SpotiumnLna.]
+10-10-2023 22:13:53 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [oTG8DB4r@outlook.com:Spotium6Wle.]
+10-10-2023 22:13:54 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [bJd2jI1s@hotmail.com:SpotiumxYr8.]
+10-10-2023 22:13:54 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [ZUfdbVXQ@hotmail.com:SpotiumIVIQ.]
+10-10-2023 22:13:54 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [yVmwO1dN@outlook.com:Spotiump5uw.]
+10-10-2023 22:13:54 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [B4izVtRU@outlook.com:SpotiumsKOj.]
+10-10-2023 22:13:54 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [rZMSMJQc@outlook.com:SpotiumzaLA.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [nuh4OOXM@outlook.com:SpotiumXnID.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [EOogGInh@outlook.com:Spotiumi1hY.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [XIQvV0Zw@outlook.com:Spotiumpv1r.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [H0MCOju0@hotmail.com:SpotiumqtC4.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [fOFELGIB@outlook.com:SpotiumssYl.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [x5kSkl3E@hotmail.com:SpotiumCiyR.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [fqVrQiL1@gmail.com:SpotiumQCv7.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [AZus5nV6@gmail.com:SpotiumB3ej.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [MhHZEC1M@outlook.com:SpotiumQ4yI.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [CA6UiulZ@hotmail.com:SpotiumLpj6.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [xupDU8fY@gmail.com:Spotium7KAU.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [CorbyrZz@hotmail.com:SpotiumCXr9.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [FqsR2jU2@gmail.com:SpotiumAh3P.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [965MJ23B@outlook.com:SpotiumAvId.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [chs8oIb6@yahoo.com:SpotiumDb31.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [9MWbTRXE@gmail.com:SpotiumMeF7.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [IaQ5M4Fu@gmail.com:SpotiumBNJY.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [sAWno1xO@outlook.com:Spotium4X6N.]
+10-10-2023 22:13:55 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [FK7FBxP2@outlook.com:SpotiumSerc.]
+10-10-2023 22:13:56 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [rSOn2AfK@outlook.com:SpotiumNOBM.]
+10-10-2023 22:13:56 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [JIULXfqu@hotmail.com:Spotiumx4ID.]
+10-10-2023 22:13:56 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [OzH4FL6N@outlook.com:SpotiumUl6H.]
+10-10-2023 22:13:57 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [t00S9x70@outlook.com:SpotiumspF9.]
+10-10-2023 22:13:58 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [ROrwsVQS@gmail.com:Spotiump8aM.]
+10-10-2023 22:13:58 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [mRIuAeY1@outlook.com:SpotiumRMMT.]
+10-10-2023 22:13:58 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [eREpbZBv@gmail.com:SpotiumNOSx.]
+10-10-2023 22:13:59 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [eJZ5Nw1Q@hotmail.com:SpotiumJsBK.]
+10-10-2023 22:13:59 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [jhSXwvtx@gmail.com:SpotiumMKYs.]
+10-10-2023 22:13:59 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [yBXf9bEZ@gmail.com:SpotiumKbUO.]
+10-10-2023 22:13:59 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [eZ1M749E@hotmail.com:SpotiumdZeL.]
+10-10-2023 22:14:00 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [dtYwSHp2@gmail.com:SpotiumG2V2.]
+10-10-2023 22:14:00 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [S5YY2LCr@outlook.com:Spotium6djW.]
+10-10-2023 22:14:00 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [PGCbBEy1@hotmail.com:SpotiumXJbb.]
+10-10-2023 22:14:00 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [U8vgpqmj@outlook.com:SpotiumDTgA.]
+10-10-2023 22:14:00 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [azRnhI1v@hotmail.com:Spotium278y.]
+10-10-2023 22:14:00 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [rlw4Ae20@outlook.com:SpotiumzGqv.]
+10-10-2023 22:14:01 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [kSc5mVo5@gmail.com:Spotium4wTm.]
+10-10-2023 22:14:01 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:85] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 400, Body: 
+10-10-2023 22:14:02 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [hGsn5bij@gmail.com:SpotiumiMXF.]
+10-10-2023 22:14:02 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [kOaXHdFX@outlook.com:Spotium3rY3.]
+10-10-2023 22:14:03 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [2rgNjQTf@outlook.com:SpotiumZbe0.]
+10-10-2023 22:14:04 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [zd8SynJG@outlook.com:SpotiumJl8o.]
+10-10-2023 22:14:05 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [Q0kgLOaD@outlook.com:Spotiumid37.]
+10-10-2023 22:14:05 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [92cCd359@gmail.com:Spotium7Erb.]
+10-10-2023 22:14:05 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [eKyq5Nqt@outlook.com:Spotium41pp.]
+10-10-2023 22:14:09 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [OYPrk64N@outlook.com:Spotiumwv36.]
+10-10-2023 22:14:10 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [qcqVo4Ob@outlook.com:Spotium3qaE.]
+10-10-2023 22:14:11 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [LzqatLEn@gmail.com:SpotiumtEQP.]
+10-10-2023 22:14:17 [INFO] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:92] -> Successfully generated a Spotify Account: [4Tjwaz7d@gmail.com:Spotium5vDq.]
+10-10-2023 22:14:36 [ERROR] main.GenerateAccount[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:85] -> Could not generate a new account, Error: could not invoke challenge command, Status Code: 400, Body: 
+10-10-2023 22:14:36 [INFO] main.main[C:/Users/ethan/Desktop/Spotify Account Generator/main.go:128] -> Successfully generated 98/100 Spotify Accounts. [51.9301114]
