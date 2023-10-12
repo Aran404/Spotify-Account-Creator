@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="Showcase">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASpotify_logo_without_text.svg&psig=AOvVaw3ODJVKslCO0tpC2woMm8N4&ust=1697157953492000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDdjJuk74EDFQAAAAAdAAAAABAE" alt="Logo" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/512px-Spotify_icon.svg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Spotify Account Generator</h3>
