@@ -31,7 +31,7 @@
   <p align="center">
     Create thousands of accounts in minutes!
     <br />
-        <a href="https://www.youtube.com/watch?v=Jm9v0CYITUc"><strong>Showcase »</strong></a>
+        <a href="https://streamable.com/pcfq7p"><strong>Showcase »</strong></a>
     <br />
   </p>
 </div>
