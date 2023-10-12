@@ -108,7 +108,7 @@ In my case they were insanely cheap due to IPV6. I highly recommend [SnowProxies
 <!-- CONTACT -->
 ## Contact
 
-Discord - **@optiboosts**
+Discord - **@optiboosts**\n
 Cheap Spotify Premium - [Website](https://spotium.store/) | [Discord](https://discord.gg/Spotium)
 
 
