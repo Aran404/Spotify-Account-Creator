@@ -50,8 +50,6 @@ With all the spotify account generators out there, they all suck! This solves al
 * Uses old methods of creating accounts
 
 # Why did I release this?
-
-Few reasons:
 * I want a portable library for my Spotify Auto Upgrader bot to clear up some work space
 * I found no use in keeping it private
 * I'd like to grow my profile a bit
