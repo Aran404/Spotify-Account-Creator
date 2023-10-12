@@ -69,12 +69,12 @@
 
 With all the spotify account generators out there, they all suck! This solves all those problems.
 
-Here's why:
+# Here's why:
 * Have not been updated in a while
 * Lack scalability and error handling
 * Uses old methods of creating accounts
 
-Why did I release this?
+# Why did I release this?
 
 Few reasons:
 * I want a portable library for my Spotify Auto Upgrader bot to clear up some work space
